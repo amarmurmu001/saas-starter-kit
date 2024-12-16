@@ -1,3 +1,4 @@
+// Plancards.js
 export function PlanCard({ plan, onSubscribe }) {
   return (
     <div className="card bg-base-100 shadow-xl">
